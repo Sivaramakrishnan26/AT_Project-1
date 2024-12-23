@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sivaramakrishnan T</h1>
 <h3 align="center">A passionate Automation Tester from Chennai</h3>
 
-- 🔭 I’m currently working on [Orange HRM Automation Project](https://github.com/Sivaramakrishnan26/AT_Project-1.git)
+- 🔭 I’m currently working on [Para Bank Account Creation](https://github.com/Sivaramakrishnan26/AccountCreation_ParaBank.git)
 
 - 🌱 I’m currently learning **Automation Testing with Selenium Python**
+
+- 👨‍💻 All of my projects are available at [https://sivaramakrishnan26.github.io/SIVARAMAKRISHNAN-T_Portfolio/](https://sivaramakrishnan26.github.io/SIVARAMAKRISHNAN-T_Portfolio/)
 
 - 📝 I regularly write articles on [https://medium.com/@sivaram.t](https://medium.com/@sivaram.t)
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **strsivaram486@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/13U0ZUXWkbKv55NK8dASvBbmYUj-awXhoVOYixuayXv4/edit?usp=drivesdk](https://docs.google.com/document/d/13U0ZUXWkbKv55NK8dASvBbmYUj-awXhoVOYixuayXv4/edit?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XCIK_YT_bl24A4tstucD-mhBq4DL1uj9/view?usp=sharing](https://drive.google.com/file/d/1XCIK_YT_bl24A4tstucD-mhBq4DL1uj9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
