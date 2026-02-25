@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sivaramakrishnan T</h1>
 <h3 align="center">A passionate Automation Tester from Chennai</h3>
 
-- 🔭 I’m currently working on [Para Bank Account Creation](https://github.com/Sivaramakrishnan26/AccountCreation_ParaBank.git)
+- 🔭 I’m currently working on Tata Consultancy Services Ltd. (TCS)
 
-- 🌱 I’m currently learning **Automation Testing with Selenium Python**
+- 🌱 I have a Hands-On experience in both **TOSCA and Selenium with Python Automation**
 
 - 👨‍💻 All of my projects are available at [https://sivaramakrishnan26.github.io/SIVARAMAKRISHNAN-T_Portfolio/](https://sivaramakrishnan26.github.io/SIVARAMAKRISHNAN-T_Portfolio/)
 
 - 📝 I regularly write articles on [https://medium.com/@sivaram.t](https://medium.com/@sivaram.t)
 
-- 💬 Ask me about **Selenium, PyTest, Python, SQL**
+- 💬 Ask me about **TOSCA, Selenium, PyTest, Python, SQL**
 
 - 📫 How to reach me **strsivaram486@gmail.com**
 
